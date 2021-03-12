@@ -33,7 +33,7 @@ class Question
         this.option1.html("1: Shirt")
         this.option1.position(150,100);
 
-        this.option2.html("2: Shirt")
+        this.option2.html("2: Humans")
         this.option2.position(150,120);
 
         this.input.position(150, 230);
